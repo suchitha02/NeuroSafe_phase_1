@@ -1,0 +1,8 @@
+TORGO/
+*.tar.bz2
+outputs/
+outputs_smoke/
+logs/
+data/
+.venv/
+archive/
